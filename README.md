@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **lariouchoussama@gmail.com**
 
-- ⚡ Fun fact **I code in Vim**
+- ⚡ Fun fact **I code with nvim**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
