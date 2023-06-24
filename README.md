@@ -12,8 +12,6 @@ I enjoy solving programing problems and solving some CTF.</p>
 
 - 📫 How to reach me **lariouchoussama@gmail.com**
 
-- ⚡ Fun fact **I code with nvim**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/oussama-lariouch-4634a11b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oussama-lariouch-4634a11b8/" height="30" width="40" /></a>
